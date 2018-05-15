@@ -1,0 +1,9 @@
+C:\Users\zchristy\source\repos\TabbedFramePage\TabbedFramePage\TabbedFramePage\bin\Debug\netstandard2.0\TabbedFramePage.deps.json
+C:\Users\zchristy\source\repos\TabbedFramePage\TabbedFramePage\TabbedFramePage\bin\Debug\netstandard2.0\TabbedFramePage.dll
+C:\Users\zchristy\source\repos\TabbedFramePage\TabbedFramePage\TabbedFramePage\bin\Debug\netstandard2.0\TabbedFramePage.pdb
+C:\Users\zchristy\source\repos\TabbedFramePage\TabbedFramePage\TabbedFramePage\obj\Debug\netstandard2.0\TabbedFramePage.csprojAssemblyReference.cache
+C:\Users\zchristy\source\repos\TabbedFramePage\TabbedFramePage\TabbedFramePage\obj\Debug\netstandard2.0\TabbedFramePage.csproj.CoreCompileInputs.cache
+C:\Users\zchristy\source\repos\TabbedFramePage\TabbedFramePage\TabbedFramePage\obj\Debug\netstandard2.0\TabbedFramePage.AssemblyInfoInputs.cache
+C:\Users\zchristy\source\repos\TabbedFramePage\TabbedFramePage\TabbedFramePage\obj\Debug\netstandard2.0\TabbedFramePage.AssemblyInfo.cs
+C:\Users\zchristy\source\repos\TabbedFramePage\TabbedFramePage\TabbedFramePage\obj\Debug\netstandard2.0\TabbedFramePage.dll
+C:\Users\zchristy\source\repos\TabbedFramePage\TabbedFramePage\TabbedFramePage\obj\Debug\netstandard2.0\TabbedFramePage.pdb

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TabbedFramePage"
+             x:Class="TabbedFramePage.MainPage"
+             BackgroundColor="White">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical"
+                 HorizontalOptions="FillAndExpand"
+                 VerticalOptions="FillAndExpand">
+
+            <StackLayout x:Name="TabHolder" 
+                         Orientation="Horizontal"
+                         HorizontalOptions="FillAndExpand"
+                         VerticalOptions="FillAndExpand">
+
+                <Frame x:Name="Tab1_Frame_Outline"
+                       BorderColor="LimeGreen"
+                       BackgroundColor="LimeGreen"
+                       Padding="-1, -1, -1, 1"
+                       HasShadow="False"
+                       HorizontalOptions="FillAndExpand"
+                       VerticalOptions="StartAndExpand"
+                       CornerRadius="0"
+                       ClassId="Outline">
+
+                    <Frame x:Name="Tab1_Frame_Button"
+                           BorderColor="Transparent"
+                           BackgroundColor="White"
+                           HasShadow="False"
+                           HorizontalOptions="FillAndExpand"
+                           VerticalOptions="StartAndExpand"
+                           CornerRadius="0">
+
+                        <Label x:Name="Tab1_Title"
+                               Text="Tab 1"
+                               HorizontalOptions="Center"
+                               FontSize="Medium"
+                               TextColor="LimeGreen"
+                               HorizontalTextAlignment="Center" 
+                               Margin="0, 0, 0, 0"/>
+
+                    </Frame>
+
+                    <Frame.GestureRecognizers>
+
+                        <TapGestureRecognizer x:Name="Tab1_Frame"
+                                              Tapped="Tab_Frame_Tapped" />
+
+                    </Frame.GestureRecognizers>
+                    
+                </Frame>
+                
+                <!-- Additional double frames, like above, create new tabs -->
+
+                <Frame x:Name="Tab2_Frame_Outline"
+                       BorderColor="Transparent"
+                       BackgroundColor="Transparent"
+                       Padding="-1, -1, -1, 1"
+                       HasShadow="False"
+                       HorizontalOptions="FillAndExpand"
+                       VerticalOptions="StartAndExpand"
+                       CornerRadius="0"
+                       ClassId="Outline">
+
+                    <Frame x:Name="Tab2_Frame_Button"
+                           BorderColor="Transparent"
+                           BackgroundColor="White"
+                           HasShadow="False"
+                           HorizontalOptions="FillAndExpand"
+                           VerticalOptions="StartAndExpand"
+                           CornerRadius="0">
+
+                        <Label x:Name="Tab2_Title"
+                               Text="Tab 2"
+                               HorizontalOptions="Center"
+                               FontSize="Medium"
+                               TextColor="LimeGreen"
+                               HorizontalTextAlignment="Center" 
+                               Margin="0, 0, 0, 0"/>
+
+                    </Frame>
+
+                    <Frame.GestureRecognizers>
+
+                        <TapGestureRecognizer x:Name="Tab2_Frame"
+                                              Tapped="Tab_Frame_Tapped" />
+
+                    </Frame.GestureRecognizers>
+                </Frame>
+            </StackLayout>
+            
+            <!-- Any content goes here under the tab bar -->
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
