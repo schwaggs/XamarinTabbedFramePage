@@ -713,11 +713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.iOS\\TabbedFramePage.iOS.csproj",
+      "projectUniqueName": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.iOS\\TabbedFramePage.iOS.csproj",
       "projectName": "TabbedFramePage.iOS",
-      "projectPath": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.iOS\\TabbedFramePage.iOS.csproj",
+      "projectPath": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.iOS\\TabbedFramePage.iOS.csproj",
       "packagesPath": "C:\\Users\\zchristy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.iOS\\obj\\",
+      "outputPath": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -735,8 +735,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj": {
-              "projectPath": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj"
+            "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj": {
+              "projectPath": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj"
             }
           }
         }

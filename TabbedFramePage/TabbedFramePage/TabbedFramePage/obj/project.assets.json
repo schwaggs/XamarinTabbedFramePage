@@ -341,11 +341,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj",
+      "projectUniqueName": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj",
       "projectName": "TabbedFramePage",
-      "projectPath": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj",
+      "projectPath": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj",
       "packagesPath": "C:\\Users\\zchristy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\obj\\",
+      "outputPath": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

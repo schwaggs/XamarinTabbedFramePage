@@ -7034,11 +7034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.UWP\\TabbedFramePage.UWP.csproj",
+      "projectUniqueName": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.UWP\\TabbedFramePage.UWP.csproj",
       "projectName": "TabbedFramePage.UWP",
-      "projectPath": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.UWP\\TabbedFramePage.UWP.csproj",
+      "projectPath": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.UWP\\TabbedFramePage.UWP.csproj",
       "packagesPath": "C:\\Users\\zchristy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.UWP\\obj\\",
+      "outputPath": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7059,8 +7059,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj": {
-              "projectPath": "C:\\Users\\zchristy\\source\\repos\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj"
+            "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj": {
+              "projectPath": "C:\\Source\\XamarinTabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage\\TabbedFramePage.csproj"
             }
           }
         }
